@@ -1,5 +1,25 @@
-# 💫 About Me:
-# hello, i am qiaoye 🙌🏻 <br><br> aspiring aata & AI analyst passionate about building intelligent systems <br>that turn raw data into decisions that actually matter.<br><br>## 🤖 What I Do<br><br>i work at the intersection of **AI and analytics** — from training machine <br>learning models to deploying data pipelines and building BI dashboards that <br>stakeholders actually use. My projects span:<br><br>- 🧠AI & Machine Learning — Computer vision models, NLP pipelines, <br>  LLM applications, and risk modelling<br>- 📊 **Analytics Engineering** — End-to-end workflows from data preparation <br>  to insight delivery (SQL, Python, dbt)<br>- ⚡ Automation — RPA bots, API integrations, and workflow automation <br>  that eliminate manual overhead<br>- 📈 BI & Visualisation — Interactive dashboards in Power BI and Tableau <br>  for cross-functional stakeholders<br><br>## 🛠️ Tech Stack<br><br>AI/ML: PyTorch · Scikit-learn · XGBoost · Hugging Face · NLP  <br>Data: SQL · Python · dbt · Pandas  <br>**BI & Viz:** Power BI · Tableau  <br>Automation: UiPath · Power Automate · Excel VBA  <br>**Cloud & Infra:** AWS · Databricks · Azure · Docker  <br>Web & Prototyping: React · HTML/CSS/JS · Figma  <br><br>## 🚀 What Drives Me<br><br>I thrive in fast-moving environments where I have the autonomy to build <br>things that create real impact. I'm especially drawn to large-scale problems where using AI can <br> genuinely change how decisions get made.<br><br> feel free to reach out! 🙌 
+# hi, i'm qiaoye 🙌🏻
+
+aspiring data & AI analyst passionate about building intelligent systems that turn raw data into decisions that actually matter.
+
+***
+
+## 🤖 what i do
+
+i work at the intersection of **AI and analytics** — from training machine learning models to deploying data pipelines and building BI dashboards that stakeholders actually use.
+
+- 🧠 **AI & Machine Learning** — computer vision models, NLP pipelines, LLM applications, and risk modelling
+- 📊 **Analytics Engineering** — end-to-end workflows from data prep to insight delivery (SQL, Python, dbt)
+- ⚡ **Automation** — RPA bots, API integrations, and workflow automation that eliminate manual overhead
+- 📈 **BI & Visualisation** — interactive dashboards in Power BI and Tableau for cross-functional stakeholders
+
+***
+
+## 🚀 what drives me
+
+i thrive in fast-moving environments where i have the autonomy to build things that create real impact. i'm especially drawn to large-scale problems where AI can genuinely change how decisions get made.
+
+feel free to reach out! 🙌
 
 
 ## 🌐 Socials:
