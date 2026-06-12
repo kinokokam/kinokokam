@@ -1,4 +1,4 @@
-<img src="./assets/hello.gif" alt="hi my name is qiaoye" width="300"/>
+<img src="hello.gif" alt="hi my name is qiaoye" width="300"/>
 
 an aspiring data & AI analyst passionate about building intelligent systems that turn raw data into decisions that actually matter!
 
