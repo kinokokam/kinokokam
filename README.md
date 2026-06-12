@@ -1,6 +1,6 @@
 # hi, i'm qiaoye 🙌🏻
 
-aspiring data & AI analyst passionate about building intelligent systems that turn raw data into decisions that actually matter.
+an aspiring data & AI analyst passionate about building intelligent systems that turn raw data into decisions that actually matter!
 
 ***
 
@@ -8,10 +8,10 @@ aspiring data & AI analyst passionate about building intelligent systems that tu
 
 i work at the intersection of **AI and analytics** — from training machine learning models to deploying data pipelines and building BI dashboards that stakeholders actually use.
 
-- 🧠 **AI & Machine Learning** — computer vision models, NLP pipelines, LLM applications, and risk modelling
-- 📊 **Analytics Engineering** — end-to-end workflows from data prep to insight delivery (SQL, Python, dbt)
-- ⚡ **Automation** — RPA bots, API integrations, and workflow automation that eliminate manual overhead
-- 📈 **BI & Visualisation** — interactive dashboards in Power BI and Tableau for cross-functional stakeholders
+- **AI & Machine Learning** — computer vision models, NLP pipelines, LLM applications, and risk modelling
+- **Analytics Engineering** — end-to-end workflows from data prep to insight delivery (SQL, Python, dbt)
+- **Automation** — RPA bots, API integrations, and workflow automation that eliminate manual overhead
+- **BI & Visualisation** — interactive dashboards in Power BI and Tableau for cross-functional stakeholders
 
 ***
 
