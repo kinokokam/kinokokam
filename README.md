@@ -19,7 +19,7 @@
 
 | name | description |
 |------|-------------|
-| <img src="images/tiktok.svg" height="30" style="vertical-align: middle;" /> &nbsp; [`shoptalkai`](https://github.com/kinokokam/shoptalkai.git) | closing tiktokshop's content-commerce gap for SG sellers, creators, and analysts. |
+| <img src="images/tiktok.svg" height="23" style="vertical-align: middle;" /> &nbsp; [`shoptalkai`](https://github.com/kinokokam/shoptalkai.git) | closing tiktokshop's content-commerce gap for SG sellers, creators, and analysts. |
 
 ## <img src="images/bow.svg" height="24" style="vertical-align: middle;" /> &nbsp; connect with me! 
 <img src="images/linkedin.svg" height="20" style="vertical-align: middle;" /> &nbsp; linkedin: [`@limqiaoye`](www.linkedin.com/in/limqiaoye) <br />
