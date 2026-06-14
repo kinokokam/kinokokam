@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" alt="hi my name is qiaoye" width="1400"/>
+<img src="images/hi, my name is qiaoye.png" alt="hi my name is qiaoye" width="1400"/>
 </div>
 
 ## about me
