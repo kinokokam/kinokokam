@@ -20,7 +20,8 @@
 | name | description |
 |------|-------------|
 | <img src="images/tiktok.svg" height="20" style="vertical-align: middle;" /> &nbsp; [`shoptalkai`](https://github.com/kinokokam/shoptalkai.git) | closing tiktokshop's content-commerce gap for SG sellers, creators, and analysts. |
-| <img src="images/target.svg" height="20" style="vertical-align: middle;" /> &nbsp; [`heartsup`](https://github.com/kinokokam/heartsup.git) | "she's a 10/10 but... heads up rendition app" |
+| <img src="images/target.svg" height="20" style="vertical-align: middle;" /> &nbsp; [`heartsup`](https://github.com/kinokokam/heartsup.git) | "she's a 10/10 but... heads up rendition web app" |
+| <img src="images/money.svg" height="20" style="vertical-align: middle;" /> &nbsp; [`ewallet`](https://github.com/kinokokam/ewallet.git) | mvp project for smu fintech |
 
 ## <img src="images/bow.svg" height="24" style="vertical-align: middle;" /> &nbsp; connect with me! 
 <img src="images/linkedin.svg" height="20" style="vertical-align: middle;" /> &nbsp; linkedin: [`@limqiaoye`](www.linkedin.com/in/limqiaoye) <br />
